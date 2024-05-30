@@ -1,5 +1,5 @@
 .background-wrapper{
-    background-image: url('./page-bg-1.jpg');
+    background-image: url('../assets/page-bg-1.jpg');
     width: 100vw;
     height: auto;
 }
